@@ -1,0 +1,55 @@
+/* Custom CSS for styling form */
+.container {
+    max-width: 600px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.btn {
+    margin-top: 10px;
+}
+
+
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .container {
+        max-width: 100%;
+    }
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+.hero-image {
+
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+}
+
+footer {
+    margin-top: 50px;
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+}
+
+
+footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: auto;
+}
